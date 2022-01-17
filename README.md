@@ -17,12 +17,6 @@
   <a href="https://www.linkedin.com/in/hari-krishna-biyyala-7848a3166">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.instagram.com/biyyalaharikrishna/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-    <a href="https://www.facebook.com/biyyala.harikrishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/biyyala.harikrishna" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/harikrishnabiyy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/harikrishnabiyy1" height="30" width="40" /></a>
-  </p>
 
 
 
