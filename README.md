@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DJANO,REACTJS**
 
-- 👨‍💻 All of my projects are available at [naturesup.000webhostapp.com](naturesup.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [http://harikrish147.000webhostapp.com/](http://harikrish147.000webhostapp.com/)
 
 - 💬 Ask me about **PYTHON,WEB DEV,DJANGO,REACT JS**
 
